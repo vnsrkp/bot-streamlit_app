@@ -21,6 +21,3 @@ def read_msg():
 
 
 read_msg()
-
-# print(read_msg(offset))
-# st.write(read_msg(offset))
